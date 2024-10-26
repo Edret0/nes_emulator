@@ -1,0 +1,4 @@
+(executable
+ (public_name nes_emu)
+ (name main)
+ (libraries nes_emu integers))

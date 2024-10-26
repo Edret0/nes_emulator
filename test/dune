@@ -1,0 +1,6 @@
+(executable
+ (name test_nes_emu)
+ (public_name test_nes_emu)
+ (modules Test_nes_emu)  
+ (libraries nes_emu))   
+
